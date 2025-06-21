@@ -1,0 +1,33 @@
+{
+  "name": "SP",
+  "symbol": "TAPSP",
+  "description": "Token to support video games, movies and dramas",
+  "image": "https://i.postimg.cc/DZ1d1qSQ/bb47be53e6570c56b570b7028c8fff8a.jpg",
+  "external_url": "https://world-crypto.com",
+  "seller_fee_basis_points": 1000,
+  "attributes": [
+    {
+      "trait_type": "vip",
+      "value": "world"
+    },
+    {
+      "trait_type": "shad",
+      "value": "The global community"
+    }
+  ],
+  "properties": {
+    "category": "Entertainment Utility Token",
+    "files": [
+      {
+        "uri": "https://i.postimg.cc/DZ1d1qSQ/bb47be53e6570c56b570b7028c8fff8a.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "D7zLFzRvzY43FnVVLMTWLtfvwM5DFYsE6qA8vpTiWesh",
+        "share": 100
+      }
+    ]
+  }
+}
